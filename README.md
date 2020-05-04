@@ -1,3 +1,6 @@
+# Read this first
+This repo is unmaintained and superseded by an official effort to provide Wireguard on EdgeOS. Please see [WireGuard/wireguard-vyatta-ubnt](https://github.com/WireGuard/wireguard-vyatta-ubnt) for official releases.
+
 # vyatta-wireguard
 
 This is a Vyatta module and pre-built binaries for the Ubiquiti EdgeRouter
